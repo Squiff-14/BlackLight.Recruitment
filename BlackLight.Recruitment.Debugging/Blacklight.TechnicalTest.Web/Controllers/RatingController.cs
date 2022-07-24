@@ -28,7 +28,7 @@ namespace FHR.Web.Controllers
             try
             {
                 var authorities = _localAuthorityService.GetAuthorities(); // Get all local authorities.
-                _mapper.Map(authorities, authRatingViewModel);
+                if(authorities != null) _mapper.Map(authorities, authRatingViewModel);
             }
             catch (Exception e)
             {

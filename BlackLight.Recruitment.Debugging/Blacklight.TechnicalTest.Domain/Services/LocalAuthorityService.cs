@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Linq;
 using System.Reflection;
 using System.Web.Http;
 using FHR.Domain.Models;
@@ -23,18 +24,19 @@ namespace FHR.Domain.Services
         }
         public IEnumerable<LocalAuthority> GetAuthorities()
         {
-            var request = new RestRequest(_configuration.FoodRatingApiRequestAuthorities, Method.POST);
+            IRestResponse<List<LocalAuthority>> response;
+
+            var request = new RestRequest(_configuration.FoodRatingApiRequestAuthorities, Method.GET);
             request.AddHeader("x-api-version", _configuration.FoodRatingApiVersion); // API version to use.
             request.RootElement = "authorities"; // Tell RestSharp which Json element to start parsing at.
 
-            var response = _restClient.Execute<List<LocalAuthority>>(request);
+            response = _restClient.Execute<List<LocalAuthority>>(request);
             if (!response.IsSuccessful)
             {
-                Logger.Error($"A failed response was received from {_configuration.FoodRatingApiRequestAuthorities} with the status code of {response.StatusCode.ToString()} inside GetAuthorities()");
-                throw new ObjectNotFoundException();
+                Logger.Error($"A failed response was received from {_configuration.FoodRatingApiRequestAuthorities} with the status code of {response.StatusCode} inside GetAuthorities()");
             }
 
-            return response.Data;
+            return response?.Data;
         }
 
         public IEnumerable<Establishment> GetEstablishmentsByAuthority(int localAuthorityId)
@@ -49,33 +51,30 @@ namespace FHR.Domain.Services
 
                 var request = new RestRequest(requestUrl, Method.GET);
                 request.AddHeader("x-api-version", _configuration.FoodRatingApiVersion); // API version to use.
-                request.AddQueryParameter("LocalAuthorityId", localAuthorityId.ToString());
+                request.AddQueryParameter("localAuthorityId", localAuthorityId.ToString());
                 request.AddQueryParameter("pageSize", _configuration.FoodRatingApiPageSize.ToString());
 
                 do // Make multiple requests until we have received all the pages. This is just to ensure if we set a page size too low that we still receive all ratings.
                 {
-                    currentPage++;
                     request.AddOrUpdateParameter("pageNumber", currentPage, ParameterType.QueryString);
                     response = _restClient.Execute<EstablishmentPagedRequest>(request);
-                    if (!response.IsSuccessful)
+                    if (response.IsSuccessful)
                     {
-                        Logger.Error(
-                            $"A failed response was received from {requestUrl} with the status code of {response.StatusCode.ToString()} inside GetEstablishmentsByAuthority()");
-                        throw new ObjectNotFoundException();
+                        if (response.Data.Establishments != null && response.Data.Establishments.Any())
+                        {
+                            establishments.AddRange(response.Data.Establishments); // Add the pages set of establishments to the overall collection.
+                        }
                     }
-
-                    establishments.AddRange(response.Data
-                        .Establishments); // Add the pages set of establishments to the overall collection.
+                    else
+                    {
+                        Logger.Error($"A failed response was received from {requestUrl} with the status code of {response.StatusCode} inside GetEstablishmentsByAuthority()");
+                    }
+                    currentPage++;
                 } while (response.IsSuccessful && currentPage < response.Data.Meta.TotalPages);
-            }
-            catch (ObjectNotFoundException)
-            {
-                throw;
             }
             catch (Exception e)
             {
                 Logger.Error("An error occured while obtaining establishments", e);
-                throw;
             }
 
             return establishments;
