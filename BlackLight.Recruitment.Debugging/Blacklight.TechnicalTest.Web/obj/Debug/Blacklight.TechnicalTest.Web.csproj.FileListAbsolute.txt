@@ -65,3 +65,7 @@ C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugg
 C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Web\obj\Debug\Blacklight.TechnicalTest.Web.csproj.CopyComplete
 C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Web\obj\Debug\FHR.Web.dll
 C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Web\obj\Debug\FHR.Web.pdb
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Web\obj\Debug\Blacklight.TechnicalTest.Web.csproj.AssemblyReference.cache
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Web\obj\Debug\Blacklight.TechnicalTest.Web.csproj.CoreCompileInputs.cache
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Web\obj\Debug\FHR.Web.dll
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Web\obj\Debug\FHR.Web.pdb

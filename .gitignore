@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BlackLight.Recruitment.Debugging/Blacklight.TechnicalTest.Domain/bin/Debug
+/BlackLight.Recruitment.Debugging/Blacklight.TechnicalTest.Domain/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+/BlackLight.Recruitment.Debugging/Blacklight.TechnicalTest.Domain/obj/Debug/Blacklight.TechnicalTest.Domain.csproj.AssemblyReference.cache
+/BlackLight.Recruitment.Debugging/Blacklight.TechnicalTest.Web/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+/BlackLight.Recruitment.Debugging/packages
+/BlackLight.Recruitment.Debugging/.vs/Blacklight.TechnicalTest/v16
