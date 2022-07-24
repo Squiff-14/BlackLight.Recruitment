@@ -1,0 +1,10 @@
+2018-07-10 19:11:59,399 [7] ERROR FHR.Domain.Services.LocalAuthorityService - A failed response was received from Authorities/basic with the status code of MethodNotAllowed inside GetAuthorities()
+2018-07-10 19:11:59,454 [7] ERROR FHR.Web.Controllers.RatingController - An error occured while loading Rating Index
+System.Data.ObjectNotFoundException: Data Exception.
+   at FHR.Domain.Services.LocalAuthorityService.GetAuthorities() in E:\Programming\Work\Technical Test\FHR\FHR.Domain\Services\LocalAuthorityService.cs:line 34
+   at FHR.Web.Controllers.RatingController.Index() in E:\Programming\Work\Technical Test\FHR\FHR.Web\Controllers\RatingController.cs:line 30
+2018-07-20 13:22:59,842 [9] ERROR FHR.Domain.Services.LocalAuthorityService - A failed response was received from Authorities/basic with the status code of MethodNotAllowed inside GetAuthorities()
+2018-07-20 13:22:59,926 [9] ERROR FHR.Web.Controllers.RatingController - An error occured while loading Rating Index
+System.Data.ObjectNotFoundException: Data Exception.
+   at FHR.Domain.Services.LocalAuthorityService.GetAuthorities() in C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\Services\LocalAuthorityService.cs:line 34
+   at FHR.Web.Controllers.RatingController.Index() in C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Web\Controllers\RatingController.cs:line 30

@@ -1,0 +1,46 @@
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\FHR.Domain.dll
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\FHR.Domain.pdb
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\log4net.dll
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\RestSharp.dll
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\log4net.xml
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csprojAssemblyReference.cache
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csproj.CopyComplete
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\FHR.Domain.dll
+C:\Development\Blacklight.TechnicalTest\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\FHR.Domain.pdb
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\FHR.Domain.dll
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\FHR.Domain.pdb
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\log4net.dll
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\RestSharp.dll
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\log4net.xml
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csprojAssemblyReference.cache
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csproj.CopyComplete
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\FHR.Domain.dll
+C:\Development\Interviews\BLS Test\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\FHR.Domain.pdb
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csprojAssemblyReference.cache
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\FHR.Domain.dll
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\Blacklight.TechnicalTest\Blacklight.TechnicalTest.Domain\obj\Debug\FHR.Domain.pdb
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\FHR.Domain.dll
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\FHR.Domain.pdb
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\log4net.dll
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\RestSharp.dll
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\log4net.xml
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csprojAssemblyReference.cache
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\obj\Debug\Blacklight.TechnicalTest.Domain.csproj.CopyComplete
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\obj\Debug\FHR.Domain.dll
+C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Debugging\Blacklight.TechnicalTest.Domain\obj\Debug\FHR.Domain.pdb

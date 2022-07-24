@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>BlackLight Recruitment MVC</title>
+    <script src="@Url.Content("~/Scripts/jquery-1.10.2.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.js")"></script>
+</head>
+<body>
+    <h1>BlackLight Software</h1>
+    <header>
+        <a href="@Url.Action("contact")">Contact Us</a>
+    </header>
+
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
