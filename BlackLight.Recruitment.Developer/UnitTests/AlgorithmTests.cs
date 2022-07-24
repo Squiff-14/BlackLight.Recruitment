@@ -46,5 +46,21 @@ namespace BlackLight.Recruitment.UnitTests
                 Assert.AreEqual(expected[i], result[i]);
             }
         }
+
+        // Test for SelectionSort
+        [TestMethod]
+        public void SortWithoutUsingBuiltInSortMethodsBonus()
+        {
+            int[] input = new[] { 5, 87, -23, 42, 99, 10543, 12934, 82, 45, 92, 42, 82 };
+            int[] expected = new[] { -23, 5, 42, 42, 45, 82, 82, 87, 92, 99, 10543, 12934 };
+
+            int[] result = Algorithms.SortWithoutUsingBuiltInSortMethodsBonus(input);
+
+            Assert.AreEqual(expected.Length, result.Length);
+            for (int i = 0; i < expected.Length; ++i)
+            {
+                Assert.AreEqual(expected[i], result[i]);
+            }
+        }
     }
 }
