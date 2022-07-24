@@ -9,3 +9,9 @@
 /BlackLight.Recruitment.Debugging/packages
 /BlackLight.Recruitment.Debugging/.vs/Blacklight.TechnicalTest/v16
 /BlackLight.Recruitment.Debugging/Blacklight.TechnicalTest.Domain/obj
+/BlackLight.Recruitment.Developer/.vs/BlackLight.Recruitment
+/BlackLight.Recruitment.Developer/MVC/bin
+/BlackLight.Recruitment.Developer/MVC/obj
+/BlackLight.Recruitment.Developer/packages
+/BlackLight.Recruitment.Developer/MVC/UnitTests/bin
+/BlackLight.Recruitment.Developer/MVC/UnitTest/obj

@@ -10,3 +10,11 @@ C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Develo
 C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
 C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\obj\Debug\UnitTests.dll
 C:\Development\Interviews\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\obj\Debug\UnitTests.pdb
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\bin\Debug\UnitTests.dll
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\bin\Debug\UnitTests.pdb
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\obj\Debug\UnitTests.dll
+C:\Work\Blacklight.TechnicalTest\BlackLight.Recruitment.Developer\UnitTests\obj\Debug\UnitTests.pdb
